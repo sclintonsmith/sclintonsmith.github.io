@@ -1,0 +1,39 @@
+/* stylesheet created by spring clinton */
+/* www.springclinton.com */
+
+body{
+	margin:0px;
+	padding: 0px;
+	font-family:Helvetica, sanserif;
+}
+
+a{
+	text-decoration: none;
+	color:green;
+	font-weight: bold;
+}
+
+.headline{
+	font-size:60px;
+	color:red;
+	font-weight:bold;
+	text-align:center;
+	padding:20px;
+}
+.headline:hover{
+	color:#FFFFF;
+	font-size:80px;
+}
+.conorcampimage{
+	width:300px;
+	height:auto;
+	text-align:center;
+	margin: 10px auto;
+	display:inline-block;
+
+}
+.center{
+	text-align:center;
+	margin: 10px auto;
+
+}
